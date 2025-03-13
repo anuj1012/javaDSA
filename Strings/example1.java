@@ -9,7 +9,7 @@ public class example1 {
         String lname ="shakya";
         String fullName = fname+lname;
         System.out.println(fullName);
-        // System.out.println(name+" Shakya");
+        System.out.println(name+" Shakya");
         // System.out.println(name.length());
     }
 }
